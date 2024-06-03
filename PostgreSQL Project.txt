@@ -1138,7 +1138,7 @@ SELECT *
 FROM employees
 WHERE salary > 50000;
 
--- Select only the employees who work in Common Grounds coffeshop
+-- Select only the employees who work in Common Grounds ice cream shop
 SELECT *
 FROM employees
 WHERE ice_cream_shop_id = 1;
